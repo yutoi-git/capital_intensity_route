@@ -1,0 +1,2 @@
+class LinesStation < ApplicationRecord
+end
